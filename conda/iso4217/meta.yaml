@@ -30,7 +30,7 @@ about:
   home: "https://github.com/dahlia/iso4217"
   license: Public Domain
   license_family: PUBLIC-DOMAIN
-  license_file:
+  license_files:
   summary: "ISO 4217 currency data package for Python"
   doc_url:
   dev_url:

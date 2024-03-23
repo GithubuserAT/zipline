@@ -32,7 +32,7 @@ about:
   home: https://github.com/wolever/parameterized
   license: BSD License
   license_family: BSD
-  license_file: ''
+  license_files: ''
   summary: Parameterized testing with any Python test framework
   description: "Parameterized testing with any Python test framework\n====================================================\n\n.. image:: https://travis-ci.org/wolever/parameterized.svg?branch=master\n \
     \   :target: https://travis-ci.org/wolever/parameterized\n\nParameterized testing in Python sucks.\n\n``parameterized`` fixes that. For everything. Parameterized testing for nose,\nparameterized testing\

@@ -47,7 +47,7 @@ about:
   home: http://python-requests.org
   license: Apache Software License
   license_family: APACHE
-  license_file: ''
+  license_files: ''
   summary: Python HTTP for Humans.
   description: "Requests: HTTP for Humans"
   doc_url: ''

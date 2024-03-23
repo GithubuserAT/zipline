@@ -31,7 +31,7 @@ test:
 about:
   home: http://www.grantjenks.com/docs/sortedcontainers/
   license: Apache 2.0
-  license_file: LICENSE
+  license_files: LICENSE
   summary: 'Python Sorted Container Types: SortedList, SortedDict, and SortedSet'
   description: |
     SortedContainers is a sorted collections library, written in pure-Python

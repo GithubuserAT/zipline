@@ -37,7 +37,7 @@ about:
   home: https://github.com/ssanderson/interface
   license: Apache Software License
   license_family: APACHE
-  license_file: ''
+  license_files: ''
   summary: Pythonic Interface definitions
   description: "``interface``\n=============\n\n|build status|\n\n``interface`` provides facilities for declaring interfaces and for statically\nasserting that classes implement those interfaces. It supports\
     \ Python 2.7 and\nPython 3.4+.\n\n``interface`` improves on Python's ``abc`` module in two ways:\n\n1. Interface requirements are checked at class creation time, rather than at\n   instance creation\

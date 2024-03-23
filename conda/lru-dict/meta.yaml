@@ -28,7 +28,7 @@ about:
   home: https://github.com/amitdev/lru-dict
   license: MIT License
   license_family: MIT
-  license_file: ''
+  license_files: ''
   summary: An Dict like LRU container.
   description: "LRU Dict\n========\n\nA fixed size dict like container which evicts Least Recently Used (LRU) items\nonce size limit is exceeded. There are many python implementations available\nwhich does\
     \ similar things. This is a fast and efficient C implementation.\nLRU maximum capacity can be modified at run-time.\nIf you are looking for pure python version, look `else where <http://www.google.com/search?q=python+lru+dict>`_.\n\

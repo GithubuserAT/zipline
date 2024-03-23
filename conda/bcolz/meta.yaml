@@ -42,7 +42,7 @@ about:
   home: https://github.com/Blosc/bcolz
   license: BSD License
   license_family: BSD
-  license_file: ''
+  license_files: ''
   summary: columnar and compressed data containers.
   description: 'bcolz provides columnar and compressed data containers.  Column
 

@@ -46,7 +46,7 @@ about:
   home: https://github.com/quantopian/trading_calendars
   license: Apache Software
   license_family: APACHE
-  license_file: ''
+  license_files: ''
   summary: trading_calendars is a Python library with securities exchange calendars used by Quantopian's Zipline.
   description: "trading_calendars is a Python library with\nsecurities exchange calendars used by Quantopian's Zipline.\n\n.. _Quantopian Inc: https://www.quantopian.com\n.. _Zipline: http://zipline.io\n\
     \n\n"

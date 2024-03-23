@@ -33,7 +33,7 @@ about:
   home: https://github.com/pypa/setuptools_scm/
   license: MIT License
   license_family: MIT
-  license_file: ''
+  license_files: ''
   summary: the blessed package to manage your versions by scm tags
   description: "setuptools_scm\n===============\n\n:code:`setuptools_scm` handles managing your python package versions\nin scm metadata instead of declaring them as the version argument\nor in a scm managed\
     \ file.\n\nIt also handles file finders for the supported scm's.\n\n.. image:: https://travis-ci.org/pypa/setuptools_scm.svg?branch=master\n    :target: https://travis-ci.org/pypa/setuptools_scm\n\n\

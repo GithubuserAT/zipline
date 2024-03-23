@@ -46,7 +46,7 @@ about:
   home: https://github.com/quantopian/empyrical
   license: Apache Software License
   license_family: APACHE
-  license_file: ''
+  license_files: ''
   summary: empyrical is a Python library with performance and risk statistics commonly used in quantitative finance
   description: 'empyrical is a Python library with performance and risk
 

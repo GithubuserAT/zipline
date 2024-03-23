@@ -47,7 +47,7 @@ about:
   home: http://bitbucket.org/zzzeek/alembic
   license: MIT
   license_family: MIT
-  license_file: ''
+  license_files: ''
   summary: A database migration tool for SQLAlchemy.
   description: "Alembic is a database migrations tool written by the author\nof `SQLAlchemy <http://www.sqlalchemy.org>`_.  A migrations tool\noffers the following functionality:\n\n* Can emit ALTER statements\
     \ to a database in order to change\n  the structure of tables and other constructs\n* Provides a system whereby \"migration scripts\" may be constructed;\n  each script indicates a particular series\
